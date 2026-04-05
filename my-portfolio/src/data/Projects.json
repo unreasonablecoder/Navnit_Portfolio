@@ -1,0 +1,16 @@
+[
+  {
+    "title": "House Price Prediction",
+    "description": "ML model to predict house prices",
+    "tech": ["Python", "Scikit-learn", "Pandas"],
+    "category": "ML",
+    "github": "https://github.com/yourusername/project1"
+  },
+  {
+    "title": "Sales Data Analysis",
+    "description": "EDA and visualization project",
+    "tech": ["Python", "Pandas", "Matplotlib"],
+    "category": "EDA",
+    "github": "https://github.com/yourusername/project2"
+  }
+]
