@@ -16,9 +16,9 @@ const Contact = () => {
         </p>
 
         <div className="flex flex-wrap justify-center gap-6">
-          {/* REPLACE WITH YOUR ACTUAL EMAIL */}
+          {/* Primary Contact: Email */}
           <a 
-            href="mailto:your-email@gmail.com" 
+            href="mailto:bommana.navnit.kumar@gmail.com" 
             className="flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full font-bold transition-all hover:scale-105"
           >
             <span>📧</span> Email Me
@@ -33,9 +33,9 @@ const Contact = () => {
             <span>💻</span> GitHub
           </a>
 
-          {/* ADD YOUR LINKEDIN LINK HERE */}
+          {/* Secondary Contact: LinkedIn */}
           <a 
-            href="https://linkedin.com/in/your-profile" 
+            href="https://www.linkedin.com/in/navnit-kumar-bommana-52842028b" 
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-[#0077b5] hover:bg-[#005582] text-white rounded-full font-bold transition-all hover:scale-105"

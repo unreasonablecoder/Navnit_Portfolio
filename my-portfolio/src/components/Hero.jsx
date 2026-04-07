@@ -9,7 +9,7 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         className="text-5xl md:text-6xl font-bold"
       >
-        Hi, I'm <span className="text-blue-500">Navnit</span>
+        Hi, I'm <span className="text-blue-500">B. Navnit Kumar</span>
       </motion.h1>
 
       <motion.p
@@ -31,7 +31,7 @@ const Hero = () => {
       >
         {/* Primary Action: Resume */}
         <a
-          href="/Navnit_Resume.pdf" 
+          href="/resume_1.pdf" 
           target="_blank"
           className="px-8 py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700 hover:scale-105 transition-all shadow-lg shadow-blue-900/20"
         >
