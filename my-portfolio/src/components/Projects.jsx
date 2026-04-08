@@ -8,7 +8,7 @@ const FEATURED_PROJECTS = [
     name: "Credit Card Fraud Detection",
     description: "A multi-phase ML system detecting fraudulent transactions. Handled imbalanced data using SMOTE and visualized insights with a PowerBI dashboard.",
     tech: ["Python", "Scikit-Learn", "PowerBI", "Pandas"],
-    link: "https://github.com/unreasonablecoder/Navnit_Portfolio", // Update with specific repo link if different
+    link: "https://github.com/unreasonablecoder/Financial_Fraud_Detection",
   },
   {
     id: "market-sentiment",
